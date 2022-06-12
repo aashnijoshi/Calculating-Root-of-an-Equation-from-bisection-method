@@ -1,0 +1,1 @@
+# Calculating-Root-of-an-Equation-from-bisection-method
